@@ -1,1 +1,1 @@
-# MetSx_PeriDiet
+# PeriDiet_MetS
