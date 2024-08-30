@@ -16,3 +16,6 @@ Conclusions
 Dietary interventions around conception and systems‐level changes to support high diet quality may be important for improving postpartum cardiometabolic health, and helping to reverse or slow the decline in women's cardiometabolic health.
 
 Key Words: cardiometabolic disease ■ dietary patterns ■ metabolic syndrome ■ postpartum ■ pregnancy
+
+J Am Heart Assoc. 2024;13:e035555 
+https://doi.org/10.1161/JAHA.124.035555
