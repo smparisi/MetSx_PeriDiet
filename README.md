@@ -3,7 +3,7 @@ Code for the manuscript: Periconceptional Dietary Quality and Metabolic Syndrome
 
 Lisa M. Bodnar, Qianhui Jin, Ashley I. Naimi, Hyagriv N. Simhan, Janet M. Catov, Sara M. Parisi and Sharon I. Kirkpatrick
 
-*Background:*
+Background:
 The period around pregnancy is a critical window in the primordial prevention of cardiovascular disease, but little is known about the role of dietary patterns in cardiometabolic health. Our objective was to determine the association between alignment of periconceptional diet with the 2020 to 2025 Dietary Guidelines for Americans and the risk of metabolic syndrome.
 
 Methods and Results:
@@ -13,3 +13,5 @@ Conclusions:
 Dietary interventions around conception and systems‐level changes to support high diet quality may be important for improving postpartum cardiometabolic health, and helping to reverse or slow the decline in women's cardiometabolic health.
 
 Key Words: cardiometabolic disease ■ dietary patterns ■ metabolic syndrome ■ postpartum ■ pregnancy
+
+https://doi.org/10.1161/JAHA.124.035555
